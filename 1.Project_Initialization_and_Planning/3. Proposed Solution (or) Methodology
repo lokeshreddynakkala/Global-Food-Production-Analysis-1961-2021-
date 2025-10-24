@@ -1,0 +1,28 @@
+Step 1 – Data Understanding:
+Use the provided dataset “world food production.csv”, which contains production data for multiple crops and countries from 1961–2021.
+
+Step 2 – Data Cleaning and Transformation:
+
+Remove inconsistencies, duplicates, and missing values.
+
+Standardize column names.
+
+Compute total production per crop/country/year.
+
+Step 3 – Data Analysis & Visualization:
+
+Use Excel or Power BI to explore and visualize data.
+
+Generate charts: trend lines, bar charts, pie charts, and maps.
+
+Step 4 – Dashboard Creation:
+
+Develop an interactive Power BI or Excel dashboard with slicers for year, crop, and country.
+
+Display KPIs such as total production, top producers, and global trends.
+
+Step 5 – Insights & Reporting:
+
+Document observations, patterns, and recommendations.
+
+Compile findings into a PDF report and record a short demo video.
